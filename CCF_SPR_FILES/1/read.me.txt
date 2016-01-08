@@ -1,0 +1,26 @@
+- all files in this folder are matching by Match by upper name (==) 
+- all data are the same, just in different formats
+- available formats: html, csv, xls
+- file CCF_SPR_MATCH_V3-28-12-Copy-csv.openrefine.tar is export of a openRefine project after this iteration
+- after this iteration there are 43 matching cases
+
+
+- column descriptions in files:
+File -  my local file that i imported and worked on	
+CTRL - control column for flag and testing cases during work	
+CCF_RANK_ORIG	- rank values the same as they are in CCF pdf 
+CCF_ACRO_ORIG	- acronym values the same as they are in CCF pdf column ????
+CCF_NAME_ORIG	- name values the same as they are in CCF pdf column ????
+CCF_NAME	- CCF_NAME_ORIG transformed to upper cases
+CCF_PUBLISHER_ORIG - publisher values the same as they are in CCF pdf column ???
+CCF_URL_ORIG	- url values the same as they are in CCF pdf column ??
+SPRINGER_PROPERTY_ORG - value of springer property from conferences.ttl 
+SPRINGER_ID_ORG	- value of id from conferences.ttl 
+SPRINGER_NAME_ORG -value of confSeries name from conferences.ttl 	
+SPRINGER_NAME	- value of upper caeses confSeries name from conferences.ttl 
+NAME_UPPER_ALL	- working facet column  
+MATCHING_CASE -MATCHING_CASE values:
+	Match by upper name (==) - string name in upper cases is equal in columns "SPRINGER_NAME " and "CCF_NAME " 			
+COMMENT - comments
+
+ 

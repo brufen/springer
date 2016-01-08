@@ -1,0 +1,7 @@
+
+Infrastructure:
+Web browsers: Chrome, Mozilla
+Wex extensions: Data Miner, ForeBug
+
+dotNetRDF Toolkit
+Google Refine https://github.com/OpenRefine/
