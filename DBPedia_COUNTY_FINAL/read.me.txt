@@ -1,8 +1,15 @@
-Columns: 
+Files with results are the same just different format:
+DBP_CONF_COUNTRY.csv 
+DBP_CONF_COUNTRY.xls 
+
+Refine project:
+SPR_CONF_COUNTRY-csv.google-refine.tar 
+
+Columns in DBP_CONF_COUNTRY: 
 property
 object	
 subject	
-DBPEDIA_COUNTRY
+DBPEDIA_COUNTRY - dbpedia link
 
 For link generation i used reconcile service based on http://dbpedia.org/sparql
 

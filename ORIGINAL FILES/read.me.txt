@@ -1,4 +1,4 @@
 These files are used for matching:
 - CCF file got from alex by email ?????????????????2012.pdf
 - Data dump downloaded from springer lod webage: http://lod.springer.com/data/dumps
-- SPR_CONF_COUNTRY file has data that i va got with sparql query making db from dump file 
+-
