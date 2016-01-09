@@ -1,0 +1,17 @@
+Columns: 
+property
+object	
+subject	
+DBPEDIA_COUNTRY
+
+For link generation i used reconcile service based on http://dbpedia.org/sparql
+
+
+Countrues that are not mapped:
+Czechoslovakia
+FRG
+GDR
+Russia, Australia
+USSR
+
+Needs check for Malta
