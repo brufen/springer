@@ -1,0 +1,18 @@
+- Data download from: http://www.cesar.edu.br/qualis/
+- all files in this folder are matched by Match by upper name (==) 
+- all data are the same, just in different formats
+- available formats: html, csv, xls
+- file QUALIS_SPR_MATCH-V1-csv.openrefine.tar is export of a openRefine project after this iteration
+- after this iteration there are 114 matching cases
+
+
+Título da publicação - names, original values from qualis website column Estrato
+Estrato	-original values from qualis website column Estrato
+Tipo	- original values from qualis website column Tipo
+SPRINGER_PROPERTY_ORG - value of springer property from conferences.ttl 
+SPRINGER_ID_ORG	- value of id from conferences.ttl 
+SPRINGER_NAME_ORG -value of confSeries name from conferences.ttl 	
+SPRINGER_NAME	- value of upper caeses confSeries name from conferences.ttl 
+NAME_UPPER_ALL	- working facet column  
+MATCHING_CASE -	matched by upper name
+COMMENT

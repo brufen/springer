@@ -1,4 +1,4 @@
-- all files in this folder are matching by Match by upper name (==) 
+- all files in this folder are matched by Match by upper name (==) 
 - all data are the same, just in different formats
 - available formats: html, csv, xls
 - file CCF_SPR_MATCH_V3-28-12-Copy-csv.openrefine.tar is export of a openRefine project after this iteration

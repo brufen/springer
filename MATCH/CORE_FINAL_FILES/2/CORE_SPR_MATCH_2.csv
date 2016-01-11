@@ -1,0 +1,627 @@
+Column 1,SPRINGER_PROPERTY_ORG,SPRINGER_ID_ORG,SPRINGER_NAME_ORG,SPRINGER_NAME,NAME_UPPER_ALL,No,H4_Field,H4_Rank,H4_Source,Hisory_4,H3_Field,H3_Rank,H3_Source,History_3,H2_Field,H2_Rank,H2_Source,History_2,H1_Field,H1_Rank,H1_Source,History_1,Title,ALL,ALL_UPER,Acro,Source,Rank,Changed?,For,Column,MATCH,COMMENT
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/acml,Asian Conference on Machine Learning,,,2174,,,,,,,,,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: Unranked
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Unranked
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+"," Asian Conference on Machine Learning
+"," Asian Conference on Machine Learning
+"," ASIAN CONFERENCE ON MACHINE LEARNING
+",ACML,CORE2014,Unranked,No,801,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/irfc,Information Retrieval Facility Conference,,,2173,,,,,,,,,,,,,"
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: Unranked
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Unranked
+||
+
+ Field Of Research: 0806 - Information Systems
+", Information Retrieval Facility Conference, Information Retrieval Facility Conference, INFORMATION RETRIEVAL FACILITY CONFERENCE,IRFC,CORE2014,Unranked,No,806,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/icalp,"International Colloquium on Automata, Languages, and Programming",,,864,,"
+
+ Rank: A
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: A
+||","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+",International Colloquium on Automata Languages and Programming,International Colloquium on Automata Languages and Programming,"INTERNATIONAL COLLOQUIUM ON AUTOMATA, LANGUAGES AND PROGRAMMING",ICALP,CORE2014,A,No,802,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ieeeares,"International Conference on Availability, Reliability, and Security",,,923,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","International Conference on Availability, Reliability and Security","International Conference on Availability, Reliability and Security","INTERNATIONAL CONFERENCE ON AVAILABILITY, RELIABILITY AND SECURITY",ARES,CORE2014,B,No,803,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/safecomp,"International Conference on Computer Safety, Reliability, and Security",,,961,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","International Conference on Computer Safety, Reliability and Security","International Conference on Computer Safety, Reliability and Security","INTERNATIONAL CONFERENCE ON COMPUTER SAFETY, RELIABILITY AND SECURITY",SAFECOMP,CORE2014,B,No,803,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/coordination,International Conference on Coordination Languages and Models,,,980,,"
+
+ Rank: A
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: A
+||","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: A
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: A
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: A
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0803 - Computer Software
+",International Conference on Coordination Models and Languages,International Conference on Coordination Models and Languages,INTERNATIONAL CONFERENCE ON COORDINATION LANGUAGES AND MODELS,Coordination,CORE2014,A,No,803,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/lpnmr,International Conference on Logic Programming and Nonmonotonic Reasoning,,,1120,,"
+
+ Rank: A
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: A
+||","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: A
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+",International Conference on Logic Programming and Non-monotonic Reasoning,International Conference on Logic Programming and Non-monotonic Reasoning,INTERNATIONAL CONFERENCE ON LOGIC PROGRAMMING AND NON-MONOTONIC REASONING,LPNMR,CORE2014,A,No,802,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/uic,International Conference on Ubiquitous Intelligence and Computing,,,1254,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",International Conference on Ubiquitous and Intelligence Computing,International Conference on Ubiquitous and Intelligence Computing,INTERNATIONAL CONFERENCE ON UBIQUITOUS INTELLIGENCE AND COMPUTING,UIC,CORE2014,B,No,801,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ic3k,"International Joint Conference on Knowledge Discovery, Knowledge Engineering, and Knowledge Management",,,1316,"
+
+ Field Of Research: 10 - Technology
+</div>",,,"||||
+
+ Field Of Research: 10 - Technology
+</div>","
+
+ Field Of Research: 08 - Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 08 - Information and Computing Sciences
+","
+
+ Field Of Research: 10 - Technology
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 10 - Technology
+","
+
+ Field Of Research: 08 - Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 08 - Information and Computing Sciences
+","International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management","International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management","INTERNATIONAL JOINT CONFERENCE ON KNOWLEDGE DISCOVERY, KNOWLEDGE ENGINEERING AND KNOWLEDGE MANAGEMENT",IC3K,CORE2014,C,No,8,10,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/aaecc,"International Symposium on Applied Algebra, Algebraic Algorithms, and Error-Correcting Codes",,,1351,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","International Symposium on Applied Algebra, Algebraic Algorithms and Error-Correcting Codes","International Symposium on Applied Algebra, Algebraic Algorithms and Error-Correcting Codes","INTERNATIONAL SYMPOSIUM ON APPLIED ALGEBRA, ALGEBRAIC ALGORITHMS AND ERROR-CORRECTING CODES",AAAAECC,CORE2014,B,No,802,,Similar upper name,
+1326,http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/wflp,International Workshop on Functional and Constraint Logic Programming,,,1481,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+",International Workshop on Functional and (Constraint) Logic Programming,International Workshop on Functional and (Constraint) Logic Programming,INTERNATIONAL WORKSHOP ON FUNCTIONAL AND CONSTRAINT LOGIC PROGRAMMING,WFLP,CORE2014,C,No,802,,Similar upper name,

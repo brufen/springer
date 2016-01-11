@@ -1,0 +1,6 @@
+property,object,subject,DBPEDIA_COUNTRY
+http://lod.springer.com/data/ontology/property/confCountry,http://lod.springer.com/data/conference/vmcai2016,USA,http://dbpedia.org/resource/UnitedStates
+http://lod.springer.com/data/ontology/property/confCountry,http://lod.springer.com/data/conference/mmm2016,USA,http://dbpedia.org/resource/UnitedStates
+http://lod.springer.com/data/ontology/property/confCountry,http://lod.springer.com/data/conference/icsns2016,Poland,http://dbpedia.org/resource/Poland
+http://lod.springer.com/data/ontology/property/confCountry,http://lod.springer.com/data/conference/icdcit2016,India,http://dbpedia.org/resource/India
+http://lod.springer.com/data/ontology/property/confCountry,http://lod.springer.com/data/conference/padl2016,USA,http://dbpedia.org/resource/UnitedStates

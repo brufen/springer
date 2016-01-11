@@ -1,0 +1,24 @@
+added conferences for 2016:
+
+http://lod.springer.com/data/conference/vmcai2016
+http://lod.springer.com/data/conference/mmm2016
+http://lod.springer.com/data/conference/icsns2016
+http://lod.springer.com/data/conference/icdcit2016
+http://lod.springer.com/data/conference/padl2016
+
+
+
+Files with results are the same just different format:
+DBP_CONF_COUNTRY.csv 
+DBP_CONF_COUNTRY.xls 
+
+Refine project:
+SPR_CONF_COUNTRY-csv.google-refine.tar 
+
+Columns in DBP_CONF_COUNTRY: 
+property
+object	
+subject	
+DBPEDIA_COUNTRY - dbpedia link
+
+For link generation i used reconcile service based on http://dbpedia.org/sparql

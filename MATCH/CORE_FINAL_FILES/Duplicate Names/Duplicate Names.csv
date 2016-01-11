@@ -1,0 +1,1699 @@
+SPRINGER_PROPERTY_ORG,SPRINGER_ID_ORG,SPRINGER_NAME_ORG,SPRINGER_NAME,NAME_UPPER_ALL,No,H4_Field,H4_Rank,H4_Source,Hisory_4,H3_Field,H3_Rank,H3_Source,History_3,H2_Field,H2_Rank,H2_Source,History_2,H1_Field,H1_Rank,H1_Source,History_1,Title_CORE_ORIG,ALL_UPER,Acro,Source,Rank_CORE_ORIG,Changed?,For,Column,MATCH,COMMENT
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/RelMiCS,International Conference on Relational and Algebraic Methods in Computer Science,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ae-cai,Workshop on Augmented Environments for Computer-Assisted Interventions,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,,,,,,,,,,,,,,,,,,,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/atal,International Workshop on Engineering Multi-Agent Systems,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,,,,,,,,,,,,,,,,,,,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/bioaw,International Workshop on Biometric Authentication,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,,,,,,,,,,,,,,,,,,,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/biomet,International Workshop on Biometric Authentication,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,,,,,,,,,,,,,,,,,,,INTERNATIONAL WORKSHOP ON BIOMETRIC AUTHENTICATION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/caise,Workshop on Enterprise and Organizational Modeling and Simulation,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,,,,,,,,,,,,,,,,,,,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ccta,International Conference on Computer and Computing Technologies in Agriculture,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/digitalforensics,IFIP International Conference on Digital Forensics,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,,,,,,,,,,,,,,,,,,,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/emas,International Workshop on Engineering Multi-Agent Systems,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,,,,,,,,,,,,,,,,,,,INTERNATIONAL WORKSHOP ON ENGINEERING MULTI-AGENT SYSTEMS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/eomas,Workshop on Enterprise and Organizational Modeling and Simulation,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,,,,,,,,,,,,,,,,,,,WORKSHOP ON ENTERPRISE AND ORGANIZATIONAL MODELING AND SIMULATION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ewhci,International Conference on Human-Computer Interaction,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/hci,International Conference on Human-Computer Interaction,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/iccip,International Conference on Critical Infrastructure Protection,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip10-5,IFIP/IEEE International Conference on Very Large Scale Integration - System on a Chip,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,,,,,,,,,,,,,,,,,,,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip11-10,International Conference on Critical Infrastructure Protection,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON CRITICAL INFRASTRUCTURE PROTECTION,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip11-9,IFIP International Conference on Digital Forensics,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,,,,,,,,,,,,,,,,,,,IFIP INTERNATIONAL CONFERENCE ON DIGITAL FORENSICS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip12,International Conference on Computer and Computing Technologies in Agriculture,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip5-5,Working Conference on Virtual Enterprises,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,,,,,,,,,,,,,,,,,,,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ifip8-1,IFIP Working Conference on The Practice of Enterprise Modeling,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,,,,,,,,,,,,,,,,,,,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ijcnlp,International Conference on Natural Language Processing,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/lfcs,International Symposium on Logical Foundations of Computer Science,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,,,,,,,,,,,,,,,,,,,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/logicab,International Symposium on Logical Foundations of Computer Science,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,,,,,,,,,,,,,,,,,,,INTERNATIONAL SYMPOSIUM ON LOGICAL FOUNDATIONS OF COMPUTER SCIENCE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/miccai,Workshop on Augmented Environments for Computer-Assisted Interventions,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,,,,,,,,,,,,,,,,,,,WORKSHOP ON AUGMENTED ENVIRONMENTS FOR COMPUTER-ASSISTED INTERVENTIONS,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/msept,"International Conference on Multicore Software Engineering, Performance, and Tools","INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS","INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS",,,,,,,,,,,,,,,,,,,"INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS",,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/musepat,"International Conference on Multicore Software Engineering, Performance, and Tools","INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS","INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS",,,,,,,,,,,,,,,,,,,"INTERNATIONAL CONFERENCE ON MULTICORE SOFTWARE ENGINEERING, PERFORMANCE, AND TOOLS",,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/nlp,International Conference on Natural Language Processing,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON NATURAL LANGUAGE PROCESSING,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/poem,IFIP Working Conference on The Practice of Enterprise Modeling,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,,,,,,,,,,,,,,,,,,,IFIP WORKING CONFERENCE ON THE PRACTICE OF ENTERPRISE MODELING,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/pro-ve,Working Conference on Virtual Enterprises,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,,,,,,,,,,,,,,,,,,,WORKING CONFERENCE ON VIRTUAL ENTERPRISES,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/ramics,International Conference on Relational and Algebraic Methods in Computer Science,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,,,,,,,,,,,,,,,,,,,INTERNATIONAL CONFERENCE ON RELATIONAL AND ALGEBRAIC METHODS IN COMPUTER SCIENCE,,,,,,,,match by name in spr
+http://lod.springer.com/data/ontology/property/confSeriesName,http://lod.springer.com/data/confseries/vlsi-soc,IFIP/IEEE International Conference on Very Large Scale Integration - System on a Chip,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,,,,,,,,,,,,,,,,,,,IFIP/IEEE INTERNATIONAL CONFERENCE ON VERY LARGE SCALE INTEGRATION - SYSTEM ON A CHIP,,,,,,,,match by name in spr
+,,,,,92,,"
+
+ Rank: A
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: A
+||","
+
+ Field Of Research: 1005 - Communications Technologies
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 1005 - Communications Technologies
+","
+
+ Field Of Research: 1005 - Communications Technologies
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 1005 - Communications Technologies
+","
+
+ Field Of Research: 1005 - Communications Technologies
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 1005 - Communications Technologies
+",Advanced Video and Signal Based Surveillance,ADVANCED VIDEO AND SIGNAL BASED SURVEILLANCE,AVSS,CORE2014,B,Yes,1005,,,match by name in core
+,,,,,1983,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||",Advanced Video and Signal Based Surveillance,ADVANCED VIDEO AND SIGNAL BASED SURVEILLANCE,AWOCA,CORE2014,B,No,,,,match by name in core
+,,,,,273,,,,,"
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: Australasian
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: Australasian
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: Australasian
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Australasian
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+",Australian Women in IT Conference,AUSTRALIAN WOMEN IN IT CONFERENCE,OzWIT,CORE2014,Australasian,Yes,899,,,match by name in core
+,,,,,1981,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: Australasian
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: Australasian
+||",,"
+
+ Rank: Australasian
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Australasian
+||",Australian Women in IT Conference,AUSTRALIAN WOMEN IN IT CONFERENCE,AusWIT,CORE2014,Australasian,Yes,,,,match by name in core
+,,,,,374,,,,,"
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+",Conference on Operations Research,CONFERENCE ON OPERATIONS RESEARCH,COR,CORE2014,C,No,802,,,match by name in core
+,,,,,2031,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",Conference on Operations Research ,CONFERENCE ON OPERATIONS RESEARCH,GOR ,CORE2014,C,No,,,,match by name in core
+,,,,,519,,,,,"
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0802 - Computation Theory and Mathematics
+",European Workshop on Computational Geometry,EUROPEAN WORKSHOP ON COMPUTATIONAL GEOMETRY,EuroCG,CORE2014,C,No,802,,,match by name in core
+,,,,,2024,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",European Workshop on Computational Geometry,EUROPEAN WORKSHOP ON COMPUTATIONAL GEOMETRY,EWCG,CORE2014,C,No,,,,match by name in core
+,,,,,699,,,,,"
+
+ Field Of Research: 0804 - Data Format
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0804 - Data Format
+","
+
+ Field Of Research: 0804 - Data Format
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0804 - Data Format
+","
+
+ Field Of Research: 0804 - Data Format
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0804 - Data Format
+",IEEE International Symposium on Information Theory,IEEE INTERNATIONAL SYMPOSIUM ON INFORMATION THEORY,ISIT,CORE2014,B,No,804,,,match by name in core
+,,,,,2132,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",IEEE International Symposium on Information Theory ,IEEE INTERNATIONAL SYMPOSIUM ON INFORMATION THEORY ,SInT ,CORE2014,C,No,,,,match by name in core
+,,,,,737,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology,IEEE SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN BIOINFORMATICS AND COMPUTATIONAL BIOLOGY,IEEE CIBCB,CORE2014,C,No,801,,,match by name in core
+,,,,,1991,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology ,IEEE SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN BIOINFORMATICS AND COMPUTATIONAL BIOLOGY,CIBCB,CORE2014,C,No,,,,match by name in core
+,,,,,759,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: A
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: A
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: A
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: A
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",IEEE Visualization,IEEE VISUALIZATION,IEEE VIS,CORE2014,A,No,801,,,Match with one in core 
+,,,,,2148,,,,,,"
+
+ Rank: A
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: A
+||",,"
+
+ Rank: A
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: A
+||",,"
+
+ Rank: A
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: A
+||",IEEE Visualization,IEEE VISUALIZATION,VIS,CORE2014,A,No,,,,Match with one in core 
+,,,,,873,,,,,"
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+",International Conference and Exhibition on High Performance Computing in the Asia-Pacific Region,INTERNATIONAL CONFERENCE AND EXHIBITION ON HIGH PERFORMANCE COMPUTING IN THE ASIA-PACIFIC REGION,HPC Asia,CORE2014,B,No,805,,,match by name in core
+,,,,,2034,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Conference and Exhibition on High Performance Computing in the Asia-Pacific Region ,INTERNATIONAL CONFERENCE AND EXHIBITION ON HIGH PERFORMANCE COMPUTING IN THE ASIA-PACIFIC REGION,HPC ,CORE2014,C,No,,,,match by name in core
+,,,,,883,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0803 - Computer Software
+",International Conference of Z Users,INTERNATIONAL CONFERENCE OF Z USERS,ZUSER,CORE2014,C,No,803,,,match by name in core
+,,,,,2157,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Conference of Z Users,INTERNATIONAL CONFERENCE OF Z USERS,ZUM,CORE2014,C,No,,,,match by name in core
+,,,,,910,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",International Conference on Artificial Intelligence and Law,INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW,ICAIL,CORE2014,C,Yes,801,,,match by name in core
+,,,,,1962,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Conference on Artificial Intelligence and Law,INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND LAW,AIL,CORE2014,C,No,,,,match by name in core
+,,,,,1064,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems,INTERNATIONAL CONFERENCE ON INDUSTRIAL AND ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS,IEA/AIE,CORE2014,C,No,801,,,match by name in core
+,,,,,2059,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||",International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems,INTERNATIONAL CONFERENCE ON INDUSTRIAL AND ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS,IEAAI,CORE2014,B,No,,,,match by name in core
+,,,,,1067,,,,,"
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+",International Conference on Information and Communication Technologies in Tourism,INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES IN TOURISM,ENTER,CORE2014,C,No,806,,,match by name in core
+,,,,,2055,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Conference on Information and Communication Technologies in Tourism,INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION TECHNOLOGIES IN TOURISM,ICTT,CORE2014,C,No,,,,match by name in core
+,,,,,1206,,,,,"
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Field Of Research: 0803 - Computer Software
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0803 - Computer Software
+",International Conference on Software and Data Technologies,INTERNATIONAL CONFERENCE ON SOFTWARE AND DATA TECHNOLOGIES,ICSoft,CORE2014,B,No,803,,,match by name in core
+,,,,,2054,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||",International Conference on Software and Data Technologies,INTERNATIONAL CONFERENCE ON SOFTWARE AND DATA TECHNOLOGIES,IC-Soft,CORE2014,B,No,,,,match by name in core
+,,,,,1260,,,,,"
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Field Of Research: 0805 - Distributed Computing
+","
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||
+
+ Field Of Research: 0805 - Distributed Computing
+",International Conference on Vector and Parallel Processing,INTERNATIONAL CONFERENCE ON VECTOR AND PARALLEL PROCESSING,VecPar,CORE2014,B,No,805,,,match by name in core
+,,,,,1992,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||",International Conference on Vector and Parallel Processing,INTERNATIONAL CONFERENCE ON VECTOR AND PARALLEL PROCESSING,CONPAR,CORE2014,B,No,,,,match by name in core
+,,,,,2168,,,,,,,,,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: Unranked
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Unranked
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",International Conference on Virtual Rehabilitation,INTERNATIONAL CONFERENCE ON VIRTUAL REHABILITATION,ICVR,CORE2014,Unranked,No,801,,,match by name in core
+,,,,,2169,,,,,,,,,,,,,"
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+","
+
+ Rank: Unranked
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: Unranked
+||
+
+ Field Of Research: 0801 - Artificial Intelligence and Image Processing
+",International Conference on Virtual Rehabilitation,INTERNATIONAL CONFERENCE ON VIRTUAL REHABILITATION,ICWSM,CORE2014,Unranked,No,801,,,match by name in core
+,,,,,1311,"
+
+ Field Of Research: 0806 - Information Systems
+</div>","
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+</div>","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+",International Information Technology in Regional Areas Conference,INTERNATIONAL INFORMATION TECHNOLOGY IN REGIONAL AREAS CONFERENCE,ITiRA,CORE2014,C,No,899,806,,match by name in core
+,,,,,2077,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Information Technology in Regional Areas Conference,INTERNATIONAL INFORMATION TECHNOLOGY IN REGIONAL AREAS CONFERENCE,IRITA,CORE2014,C,No,,,,match by name in core
+http://lod.springer.com/data/ontology/property/confSeriesName,,,,,1422,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Field Of Research: 0806 - Information Systems
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0806 - Information Systems
+",International Symposium on System Synthesis,INTERNATIONAL SYMPOSIUM ON SYSTEM SYNTHESIS,ISSS,CORE2014,C,No,806,,,match by name in core
+http://lod.springer.com/data/ontology/property/confSeriesName,,,,,2139,,,,,,"
+
+ Rank: C
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||",,"
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||",International Symposium on System Synthesis,INTERNATIONAL SYMPOSIUM ON SYSTEM SYNTHESIS,SYSSYN,CORE2014,C,No,,,,match by name in core
+,,,,,1577,,,,,"
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: ERA2010
+","
+
+ Source: ERA2010
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+","
+
+ Rank: C
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: C
+||
+
+ Field Of Research: 0899 - Other Information and Computing Sciences
+",Journal of Computing Science in Colleges (Conference proceedings),JOURNAL OF COMPUTING SCIENCE IN COLLEGES (CONFERENCE PROCEEDINGS),CCSC,CORE2014,C,No,899,,,match by name in core
+,,,,,2086,,,,,,"
+
+ Rank: B
+","
+
+ Source: CORE2008
+","
+
+ Source: CORE2008
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2013
+","
+
+ Source: CORE2013
+||
+
+ Rank: B
+||",,"
+
+ Rank: B
+","
+
+ Source: CORE2014
+","
+
+ Source: CORE2014
+||
+
+ Rank: B
+||",Journal of Computing Science in Colleges (conference proceedings) ,JOURNAL OF COMPUTING SCIENCE IN COLLEGES (CONFERENCE PROCEEDINGS) ,JCSC ,CORE2014,B,No,,,,match by name in core

@@ -1,4 +1,5 @@
 These files are used for matching:
 - CCF file got from alex by email ?????????????????2012.pdf
 - Data dump downloaded from springer lod webage: http://lod.springer.com/data/dumps
--
+- core exported from website
+- qualis scraped from website
